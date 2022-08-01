@@ -13,7 +13,7 @@ functionalities towards these ads. Since advertiser will be assigned with an ad 
 
 
 - **Clone Project**
-- **Doublicate .env.example to .env **
+- **Doublicate .env.example to .env**
 - **Create Your database**
-- **Run php artisan mi:f --seed **
+- **Run php artisan mi:f --seed**
 - **For Cron schedual run  php artisan reminder:advertisers**
